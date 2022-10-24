@@ -1,0 +1,3 @@
+<mod displayName="Unused Planet Themes" unique="UnusedPlanetThemes" description="This mod returns hidden planet themes to the Adventure Editor palette." installerSystemVersion="1.0.1.1" hasCustomInstaller="false" dllsBuild="2.5.20" requiresGalaxyReset="false" causesSaveDataDependency="false">
+	<prerequisite>0KepOnline_UnusedPlanetThemes.package</prerequisite>
+</mod>
