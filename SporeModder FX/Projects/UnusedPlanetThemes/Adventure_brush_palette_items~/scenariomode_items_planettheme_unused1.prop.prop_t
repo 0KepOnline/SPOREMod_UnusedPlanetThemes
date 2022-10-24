@@ -1,0 +1,62 @@
+string16 description "scenariomode_items_planettheme_unused1"
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+	0
+	1
+	2
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+	1
+	2
+	2
+	2
+	3
+	3
+	3
+	4
+	4
+	4
+	5
+	5
+	5
+end
+keys palettePagePartItems
+	palette_config~!redplanet
+	palette_config~!blueplanet
+	palette_config~!orangeplanet_01
+	palette_config~!orangeplanet_02
+	palette_config~!greenplanet_02
+	palette_config~!yellowplanet
+	palette_config~!yellowplanet_01
+	palette_config~!yellowplanet_02
+	palette_config~!painttheme_04
+	palette_config~!painttheme_05
+	palette_config~!painttheme_06
+	palette_config~!painttheme_07
+	palette_config~!painttheme_08
+	palette_config~!painttheme_09
+	palette_config~!painttheme_10
+	palette_config~!painttheme_11
+	palette_config~!painttheme_12
+	palette_config~!painttheme_13
+end
+key palettePagePartParentPage scenariomode_page_planettheme_unused1

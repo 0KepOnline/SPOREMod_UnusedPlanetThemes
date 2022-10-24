@@ -1,0 +1,14 @@
+Unused Planet Themes mod by 0KepOnline.
+http://www.spore.com/view/myspore/0KepOnline
+
+Also check out my profile with different tests:
+http://www.spore.com/view/myspore/0KepTests
+
+
+
+Used software:
+* SporeModder FX (https://github.com/emd4600/SporeModder-FX)
+* HxD (https://mh-nexus.de/hxd)
+* 3D Ripper DX (http://www.deep-shadows.com/hax/3DRipperDX.htm)
+* paint.net (https://getpaint.net)
+* pngwolf-zopfli (https://github.com/jibsen/pngwolf-zopfli)

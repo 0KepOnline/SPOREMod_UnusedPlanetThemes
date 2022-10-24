@@ -1,0 +1,5 @@
+string16 description "scenariomode_palette_planettheme_unused"
+keys palettePalettePages
+	Adventure_brush_palette_pages~!scenariomode_page_planettheme_unused1
+	Adventure_brush_palette_pages~!scenariomode_page_planettheme_unused2
+end

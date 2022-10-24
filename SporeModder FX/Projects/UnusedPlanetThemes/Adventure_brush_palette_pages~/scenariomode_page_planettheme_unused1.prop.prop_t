@@ -1,0 +1,5 @@
+string16 description "scenariomode_page_planettheme_unused1"
+key parent palette_config~!TemplatePaletteScenarioPaintPage.prop
+key palettePageParentCategory Adventure_brush_palette_category~!scenariomode_category_planetthemes
+uint32 palettePageSequenceNumber 301
+int32 palettePageSetId 1

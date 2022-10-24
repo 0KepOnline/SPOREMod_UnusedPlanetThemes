@@ -1,0 +1,23 @@
+string16 description "scenariomode_items_planettheme_unused2"
+int32s palettePagePartItemColumns
+	0
+	1
+	2
+	0
+	1
+end
+int32s palettePagePartItemRows
+	0
+	0
+	0
+	1
+	1
+end
+keys palettePagePartItems
+	palette_config~!painttheme_14
+	palette_config~!painttheme_15
+	palette_config~!painttheme_16
+	palette_config~!painttheme_17
+	palette_config~!painttheme_18
+end
+key palettePagePartParentPage scenariomode_page_planettheme_unused2
